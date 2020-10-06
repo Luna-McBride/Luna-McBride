@@ -2,7 +2,7 @@
 
 I am Luna McBride. I am very interested in Data Science and AI. I have a Bachelor's Degree in Computer Science and Japanese from the University of Colorado Boulder.
 
-This GitHub has recently received an overhaul after I realized how cluttered my repository list was. Every class repository was moved into the School_Work repository, retaining the structure of the original repositories. My more recent work has been using Kaggle datasets, which can be found in the Kaggle_Personal_Projects repository. Each project is organized in folders by project type and have their own readme, so do not worry about getting lost.
+This GitHub has recently received an overhaul after I realized how cluttered my repository list was. Every class repository was moved into the [School_Work repository](https://github.com/Luna-McBride/School_Work), retaining the structure of the original repositories. My more recent work has been using Kaggle datasets, which can be found in the [Kaggle_Personal_Projects Repository](https://github.com/Luna-McBride/Kaggle_Personal_Projects). Each project is organized in folders by project type and have their own readme, so do not worry about getting lost.
 
 If you want some projects I recommend, those would be:
 
