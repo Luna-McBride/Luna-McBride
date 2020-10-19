@@ -16,6 +16,8 @@ If you want some projects I recommend, those would be:
 
 * [Bank Clustering](https://github.com/Luna-McBride/Kaggle_Personal_Projects/tree/master/Data%20Clustering/Bank_Data_Clustering), where I clustered bank data and took the mean of the clusters to describe the average user for each group. This one stands out to me because it came about from seeing the dataset, having no clue what was going on with it, followed by learning what clustering was as I went along.
 
+* [Ramen Data Exploration](https://github.com/Luna-McBride/Kaggle_Personal_Projects/tree/master/Data%20Exploration/R_Ramen_Data_Exploration), which explores ramen product data. It is a basic exploration, but it was done with R rather than Python. I am much better with Python, but I feel having knowledge with R as well rounds out my skillset a bit more.
+
 These are just the current highlights, so I encourage you to go to the [Kaggle_Personal_Projects Folder](https://github.com/Luna-McBride/Kaggle_Personal_Projects) to see some more.
 
 
