@@ -1,10 +1,14 @@
 ### Hi, my name is Luna!
 
-I am Luna McBride. I am very interested in Data Science and AI. I have a Bachelor's Degree in Computer Science and Japanese from the University of Colorado Boulder.
+I am Luna McBride. I am very interested in Data Science and AI. I attained my Master's Degree in Computer Science with a subplan in Data Science and Engineering from The Univeristy of Colorado Boulder in May 2024. I also received my Bachelor's Degree in Computer Science and Japanese from The University of Colorado Boulder in December 2019.
 
-This GitHub has recently received an overhaul after I realized how cluttered my repository list was. Every class repository was moved into the [School_Work Repository](https://github.com/Luna-McBride/School_Work), retaining the structure of the original repositories. My more recent work has been using Kaggle datasets, which can be found in the [Kaggle_Personal_Projects Repository](https://github.com/Luna-McBride/Kaggle_Personal_Projects). Each project is organized in folders by project type and have their own readme, so do not worry about getting lost.
+This GitHub was revamped for increased readability. Every class repository was moved into the [School_Work Repository](https://github.com/Luna-McBride/School_Work), retaining the structure of the original repositories. My more recent work has been using Kaggle datasets, which can be found in the [Kaggle_Personal_Projects Repository](https://github.com/Luna-McBride/Kaggle_Personal_Projects). Each project is organized in folders by project type and have their own readme, so do not worry about getting lost.
 
 If you want some projects I recommend, those would be:
+
+* [My Natural Language Processing Speedup Study](https://github.com/Luna-McBride/Natural_Language_Processing_Speedup_Study/tree/main), which aimed to make model training more accessible by identifying free libraries and low-cost speedup options for those who want to get into the field but do not have the money they would expect is necessary to do so.
+
+* [My Medicaid Spending Analysis Dashboard](https://github.com/Luna-McBride/Medicaid_Analysis), which uses PowerBI to show which medications your taxpayer dollars are going toward.
 
 * [Cheese Classification CV](https://github.com/Luna-McBride/Kaggle_Personal_Projects/tree/master/Computer%20Vision/Computer_Vision_Cheese_Classification), where I trained a Keras model to distinguish between two different types of French cheeses by their images at near 100% accuracy.
 
