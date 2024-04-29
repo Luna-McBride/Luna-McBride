@@ -30,10 +30,6 @@ If you would like to reach me elsewhere, you can find me on:
 
 * [Kaggle](https://www.kaggle.com/lunamcbride24)
 
-* [My Website (New using Docker and AWS EC2)](http://ec2-54-149-77-78.us-west-2.compute.amazonaws.com:8000/)
-
-* [My Website (Original in Heroku)](https://luna-mcbride.herokuapp.com/)
-
 * [Email](luna.mcbride24@gmail.com)
 
 <!--
